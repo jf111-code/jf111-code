@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm John Flores
 
-<!--
-**jf111-code/jf111-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my technical skills in Git, GitHub, Python, and data analysis by learning in public and creating small, practical projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- learning Git and GitHub workflow
+- improving my VS Code + terminal workflow
+- building beginner Python and data projects
+- creating a GitHub portfolio I can reference in job applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- chapter1-practice — Git fundamentals (commits, branches, merging, push/pull)
+- more projects coming soon
+
+## Current tools
+- Git
+- GitHub
+- Visual Studio Code
+- Linux / terminal workflow
+
+## Goals
+- build a GitHub profile I can be proud of
+- publish small but complete projects
+- improve coding and data skills consistently
